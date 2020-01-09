@@ -1,0 +1,245 @@
+
+root
+Password information for root
+----------
+
+
+bin
+Password information for bin
+----------
+
+
+daemon
+Password information for daemon
+----------
+
+
+adm
+Password information for adm
+----------
+
+
+lp
+Password information for lp
+----------
+
+
+sync
+Password information for sync
+----------
+
+
+shutdown
+Password information for shutdown
+----------
+
+
+halt
+Password information for halt
+----------
+
+
+mail
+Password information for mail
+----------
+
+
+operator
+Password information for operator
+----------
+
+
+games
+Password information for games
+----------
+
+
+ftp
+Password information for ftp
+----------
+
+
+nobody
+Password information for nobody
+----------
+
+
+systemd-network
+Password information for systemd-network
+----------
+
+
+dbus
+Password information for dbus
+----------
+
+
+polkitd
+Password information for polkitd
+----------
+
+
+sshd
+Password information for sshd
+----------
+
+
+postfix
+Password information for postfix
+----------
+
+
+chrony
+Password information for chrony
+----------
+
+
+centos
+Password information for centos
+----------
+
+
+rpc
+Password information for rpc
+----------
+
+
+gluster
+Password information for gluster
+----------
+
+
+libstoragemgmt
+Password information for libstoragemgmt
+----------
+
+
+qemu
+Password information for qemu
+----------
+
+
+unbound
+Password information for unbound
+----------
+
+
+rtkit
+Password information for rtkit
+----------
+
+
+ntp
+Password information for ntp
+----------
+
+
+tss
+Password information for tss
+----------
+
+
+usbmuxd
+Password information for usbmuxd
+----------
+
+
+saned
+Password information for saned
+----------
+
+
+setroubleshoot
+Password information for setroubleshoot
+----------
+
+
+colord
+Password information for colord
+----------
+
+
+radvd
+Password information for radvd
+----------
+
+
+saslauth
+Password information for saslauth
+----------
+
+
+pulse
+Password information for pulse
+----------
+
+
+abrt
+Password information for abrt
+----------
+
+
+geoclue
+Password information for geoclue
+----------
+
+
+rpcuser
+Password information for rpcuser
+----------
+
+
+nfsnobody
+Password information for nfsnobody
+----------
+
+
+gdm
+Password information for gdm
+----------
+
+
+sssd
+Password information for sssd
+----------
+
+
+gnome-initial-setup
+Password information for gnome-initial-setup
+----------
+
+
+tcpdump
+Password information for tcpdump
+----------
+
+
+avahi
+Password information for avahi
+----------
+
+
+vboxadd
+Password information for vboxadd
+----------
+
+
+freetos
+Password information for freetos
+----------
+
+
+Ronaldo
+Password information for Ronaldo
+----------
+
+
+test1
+Password information for test1
+----------
+
+
+test2
+Password information for test2
+----------
+
